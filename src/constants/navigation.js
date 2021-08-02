@@ -1,0 +1,11 @@
+/** @format */
+
+export const NAVIGATION = {
+  SCREEN: {
+    MAIN: 'NAVIGATION.SCREEN.MAIN',
+  },
+  ROUTE: {
+    DASHBOARD: 'NAVIGATION.ROUTE.DASHBOARD',
+    SEARCH: 'NAVIGATION.ROUTE.SEARCH',
+  },
+};
